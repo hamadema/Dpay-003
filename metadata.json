@@ -1,0 +1,5 @@
+{
+  "name": "003-Design Ledger - Sanjaya & Ravi",
+  "description": "A specialized real-time financial tracking application for designers and clients to manage design costs and payments with strict role-based access control.",
+  "requestFramePermissions": []
+}
